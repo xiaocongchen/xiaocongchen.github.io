@@ -61,5 +61,6 @@ Professional Services
   * IEEE Intelligent Systems (ISSI).
   * BioSystems.
   * Future Generation Computer Systems.
+  * Pattern Recognition.
   
 
