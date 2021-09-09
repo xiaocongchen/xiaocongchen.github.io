@@ -32,6 +32,8 @@ Xiang Zhang, <b>Xiaocong Chen</b>, Lina Yao, Chang Ge and Manqing Dong, <b>Deep 
 <b>Xiaocong Chen</b>, Lina Yao, Tao Zhou, Jinming Dong and Yu Zhang, <b>Momentum Contrastive Learning for Few-Shot COVID-19 Diagnosis from Chest CT Images</b>. Pattern Recognition, 113, p.107826.
 
 <h2>Pre-print Paper</h2>
+<b>Xiaocong Chen</b>, Lina Yao, Julian McAuley, Guanglin Zhou and Xianzhi Wang, <b>A Survey of Deep Reinforcement Learning in Recommender Systems: A Systematic Review and Future Directions</b>
+
 <b>Xiaocong Chen</b>, Yun Li, Lina Yao, Ehsan Adeli and Yu Zhang, <b>Generative Adversarial U-Net for Domain-free Medical Image Augmentation</b>.
 
 <b>Xiaocong Chen</b>, Lina Yao, Xianzhi Wang, Aixin Sun, Wenjie Zhang and Quan Z Sheng, <b>Generative Adversarial Reward Learning for Generalized Behavior Tendency Inference</b>.
