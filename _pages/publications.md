@@ -12,7 +12,7 @@ author_profile: true
 {% endif %}
 
 <h2>Conference Paper</h2>
-<b>Xiaocong Chen</b>, Lina Yao, Aixin Sun, Xianzhi Wang, Xiwei Xu, Liming Zhu, <b>Generative Inverse Deep Reinforcement Learning for Online Recommendation</b>. 30th ACM International Conference on Information and Knowledge Management (CIKM 2021), Online, November 1-5, 2021. (Oral Presentation)
+<b>Xiaocong Chen</b>, Lina Yao, Aixin Sun, Xianzhi Wang, Xiwei Xu, Liming Zhu, <b>Generative Inverse Deep Reinforcement Learning for Online Recommendation</b>. 30th ACM International Conference on Information and Knowledge Management (CIKM 2021), Online, November 1-5, 2021. (Spotlight Presentation)
 
 <b>Xiaocong Chen</b>, Lina Yao, Yu Zhang, <b>Residual Attention U-Net for Automated Multi-Class Segmentation of COVID-19 Chest CT Images</b>. Intelligent Systems For Molecular Biology/European Conference On Computational Biology (ISMB/ECCB 2021), Online, July 25 - 30, 2021. (Poster) 
 
