@@ -12,6 +12,8 @@ author_profile: true
 {% endif %}
 
 <h2>Conference Paper</h2>
+<b>Xiaocong Chen</b>, Lina Yao, Julian McAuley, Weili Guan, Xiaojun Chang and Xianzhi Wang, <b>Locality-Sensitive Experience Replay for Online Recommendation</b>. The 45th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2022),Madrid, July 11-15, 2022.
+
 <b>Xiaocong Chen</b>, Lina Yao, Aixin Sun, Xianzhi Wang, Xiwei Xu, Liming Zhu, <b>Generative Inverse Deep Reinforcement Learning for Online Recommendation</b>. 30th ACM International Conference on Information and Knowledge Management (CIKM 2021), Online, November 1-5, 2021. (Spotlight Presentation)
 
 <b>Xiaocong Chen</b>, Lina Yao, Yu Zhang, <b>Residual Attention U-Net for Automated Multi-Class Segmentation of COVID-19 Chest CT Images</b>. Intelligent Systems For Molecular Biology/European Conference On Computational Biology (ISMB/ECCB 2021), Online, July 25 - 30, 2021. (Poster) 
@@ -37,5 +39,3 @@ Xiang Zhang, <b>Xiaocong Chen</b>, Lina Yao, Chang Ge and Manqing Dong, <b>Deep 
 <b>Xiaocong Chen</b>, Lina Yao, Julian McAuley, Guanglin Zhou and Xianzhi Wang, <b>A Survey of Deep Reinforcement Learning in Recommender Systems: A Systematic Review and Future Directions</b>
 
 <b>Xiaocong Chen</b>, Lina Yao, Xianzhi Wang, Aixin Sun, Wenjie Zhang and Quan Z Sheng, <b>Generative Adversarial Reward Learning for Generalized Behavior Tendency Inference</b>.
-
-<b>Xiaocong Chen</b>, Lina Yao, Julian McAuley, Weili Guan, Xiaojun Chang and Xianzhi Wang, <b>Locality-Sensitive Experience Replay for Online Recommendation</b>
