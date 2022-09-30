@@ -12,6 +12,9 @@ author_profile: true
 {% endif %}
 
 <h2>Conference Paper</h2>
+<b>Xiaocong Chen</b>, Lina Yao, Xiaojun Chang, Siyu Wang and Yong Li, <b>Empowerment-driven Policy Gradient Learning with
+Counterfactual Augmentation in Recommender Systems</b>. The 22nd IEEE International Conference on Data Mining (ICDM 2022), Orlando, FL, USA Nov. 28 - Dec. 1 2022.
+
 <b>Xiaocong Chen</b>, Lina Yao, Julian McAuley, Weili Guan, Xiaojun Chang and Xianzhi Wang, <b>Locality-Sensitive Experience Replay for Online Recommendation</b>. The 45th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2022),Madrid, July 11-15, 2022.
 
 <b>Xiaocong Chen</b>, Lina Yao, Aixin Sun, Xianzhi Wang, Xiwei Xu, Liming Zhu, <b>Generative Inverse Deep Reinforcement Learning for Online Recommendation</b>. 30th ACM International Conference on Information and Knowledge Management (CIKM 2021), Online, November 1-5, 2021. (Spotlight Presentation)
