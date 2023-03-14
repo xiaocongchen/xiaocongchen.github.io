@@ -40,8 +40,9 @@ Xiang Zhang, <b>Xiaocong Chen</b>, Lina Yao, Chang Ge and Manqing Dong, <b>Deep 
 
 <b>Xiaocong Chen</b>, Yun Li, Lina Yao, Ehsan Adeli and Yu Zhang, <b>Generative Adversarial U-Net for Domain-free Medical Image Augmentation</b> Pattern Recognition Letter.
 
+<b>Xiaocong Chen</b>, Lina Yao, Julian McAuley, Guanglin Zhou and Xianzhi Wang, <b>A Survey of Deep Reinforcement Learning in Recommender Systems: A Systematic Review and Future Directions</b>. Knowledge-based Systems.
+
 <h2>Pre-print Paper</h2>
-<b>Xiaocong Chen</b>, Lina Yao, Julian McAuley, Guanglin Zhou and Xianzhi Wang, <b>A Survey of Deep Reinforcement Learning in Recommender Systems: A Systematic Review and Future Directions</b>.
 
 <b>Xiaocong Chen</b>, Siyu Wang, Lina Yao, Lianyong Qi and Yong Li, <b>Intrinsically Motivated Reinforcement Learning based Recommendation with Counterfactual Data Augmentation</b>.
 
