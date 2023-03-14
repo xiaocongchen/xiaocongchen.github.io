@@ -5,10 +5,11 @@ permalink: teaching/
 author_profile: true
 ---
 
-I was tutored a few CS courses in CSE,UNSW from 2018.
+I was tutored/admin a few CS courses in CSE,UNSW from 2018.
 * ENGG1811 Computering
 * COMP1531 Software Engineering Fundamentals,
 * COMP9321 Data Service Engineering
+* COMP9727 Recommender Systems
 
 
 In addition, I also supervise research-based courses.
