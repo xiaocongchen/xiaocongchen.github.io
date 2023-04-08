@@ -12,6 +12,13 @@ author_profile: true
 {% endif %}
 
 <h2>Conference Paper</h2>
+Siyu Wang, <b>Xiaocong Chen</b>, Lina Yao and Dietmar Jannach, <b>Causal Decision Transformer for Recommender Systems via Offline Reinforcement Learning</b>.
+The 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2023), Taipei, July 23-24, 2023.
+
+Siyu Wang, <b>Xiaocong Chen</b>, Quan Z. Sheng, Yihong Zhang and Lina Yao, <b>Causal Disentangled Variational Auto-Encoder for Preference Understanding in Recommendation</b>.
+The 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2023), Taipei, July 23-24, 2023.
+
+
 <b>Xiaocong Chen</b>, Lina Yao, Xiaojun Chang, Siyu Wang and Yong Li, <b>Empowerment-driven Policy Gradient Learning with
 Counterfactual Augmentation in Recommender Systems</b>. The 22nd IEEE International Conference on Data Mining (ICDM 2022), Orlando, FL, USA Nov. 28 - Dec. 1 2022.
 
