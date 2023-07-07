@@ -12,37 +12,28 @@ redirect_from:
 Professional Services
 ======
 * PC Member
-  * The 31st ACM International Conference on Information and Knowledge Management (CIKM 2022)
-  * The 29th International Conference on Neural Information Processing (ICONIP 2022)
-  * The 28th International Conference on Neural Information Processing (ICONIP 2021)
-  * The 26th International Conference on Neural Information Processing (ICONIP 2019)
+  * International Conference  Advanced Data Mining and Applications 2023 (ADMA 2023) 
+  * ACM International Conference on Information and Knowledge Management (CIKM 2022-2023)
+  * International Conference on Neural Information Processing (ICONIP 2019-2023)
 * Conference Reviewer
   * ACM International Conference on Multimedia in Asia 2019.
-  * Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI 2020).
-  * Advances in Knowledge Discovery and Data Mining - 24rd Pacific-Asia Conference (PAKDD 2020).
-  * International Joint Conference on Artificial Intelligence --Pacific Rim International Conference on Artificial Intelligence (IJCAI-PRICAI 2020).
-  * The 26th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2020).
+  * AAAI Conference on Artificial Intelligence (AAAI 2020-2023).
+  * Advances in Knowledge Discovery and Data Mining - Pacific-Asia Conference (PAKDD 2020-2023).
+  * International Joint Conference on Artificial Intelligence (IJCAI 2020-2023)
+  * The 26th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2020-2023).
   * IEEE International Conference on Web Services (ICWS 2020)
-  * The 43rd Annual ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2020).
-  * IJCAI 2020 (Survey Track).
+  * The ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2020-2023).
   * 29th ACM International Conference on Information and Knowledge Management (CIKM 2020).
-  * 28th ACM International Conference on Multimedia (ACM MM 2020).
+  * 28th ACM International Conference on Multimedia (ACM MM 2020-2023).
   * 25th International Conference on Database Systems for Advanced Applications (DASFAA2020).
-  * IEEE International Conference on Data Mining (ICDM 2020).
+  * IEEE International Conference on Data Mining (ICDM 2020-2023).
   * ACM/IEEE The International Conference on Information Processing in Sensor Networks (IPSN 2020).
-  * Thirty-fourth Conference on Neural Information Processing Systems (NeurIPS 2020).
-  * Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI 2021).
-  * International Conference on Machine Learning (ICML 2021).
-  * International Conference on Machine Learning (ICML 2022).
-  * International Conference on Machine Learning (ICML 2023).
-  * 29th ACM International Conference on Multimedia (ACM MM 2021).
-  * IEEE International Conference on Data Mining (ICDM 2021).
-  * IEEE International Conference on Data Mining (ICDM 2022).
-  * The 44th Annual ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2021)
-  * The 27th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2021)
-  * The 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2022)
-  * The 45th Annual ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2022)
-  * The 46th Annual ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2023)
+  * Conference on Neural Information Processing Systems (NeurIPS 2020-2023).
+  * International Conference on Learning Representation (ICLR 2022-2023)
+  * International Conference on Machine Learning (ICML 2021-2023).
+  * ACM International Conference on Multimedia (ACM MM 2021-2022).
+  * IEEE International Conference on Data Mining (ICDM 2021-2023).
+  * The ACM International Conference on Web Search and Data Minign (WSDM 2021-2023)
 
 * Journal Reviewer
   * ACM Computing Survey (CSUR).
@@ -69,5 +60,7 @@ Professional Services
   * BioSystems.
   * Future Generation Computer Systems.
   * Pattern Recognition.
+  * Pattern Recognition Letter.
+  * ACM Transactions on Recommender Systems.
   
 
