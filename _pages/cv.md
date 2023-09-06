@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Services"
+title: "Professional Services"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Professional Services
 ======
 * Organisation Committees
   *   International Conference  Advanced Data Mining and Applications 2024 (ADMA 2024)
