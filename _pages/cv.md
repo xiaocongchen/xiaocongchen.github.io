@@ -11,6 +11,8 @@ redirect_from:
 
 Professional Services
 ======
+* Organisation Committees
+  *   International Conference  Advanced Data Mining and Applications 2024 (ADMA 2024)
 * PC Member
   * International Conference  Advanced Data Mining and Applications 2023 (ADMA 2023) 
   * ACM International Conference on Information and Knowledge Management (CIKM 2022-2023)
