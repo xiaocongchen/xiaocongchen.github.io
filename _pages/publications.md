@@ -12,6 +12,8 @@ author_profile: true
 {% endif %}
 
 <h2>Conference Paper</h2>
+<b>Xiaocong Chen</b>, Siyu Wang and Lina Yao, <b>Maximum-Entropy Regularized Decision Transformer with Reward Relabelling for Dynamic Recommendation</b>,2024 ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD 2024), Barcelona, Spain, August 25-29, 2024
+
 Siyu Wang, <b>Xiaocong Chen</b>, Lina Yao and Dietmar Jannach, <b>Causal Decision Transformer for Recommender Systems via Offline Reinforcement Learning</b>.
 The 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2023), Taipei, July 23-24, 2023.
 
@@ -41,9 +43,11 @@ Xiang Zhang, <b>Xiaocong Chen</b>, Lina Yao, Chang Ge and Manqing Dong, <b>Deep 
 <b>Xiaocong Chen</b>, Chaoran Huang, Xiang Zhang, Xianzhi Wang, Wei Liu and Lina Yao, <b>Expert2Vec: Distributed Expert Representation Learning in Question Answering Community</b>. International Conference on Advanced Data Mining and Applications (ADMA 2019), Dalian, China, November 21-23, 2019
 
 <h2>Journal Paper</h2>
+<b>Xiaocong Chen</b>, Siyu Wang, Julian McAuley, Dietmar Jannach and Lina Yao, <b>On the Opportunities and Challenges of Offline Reinforcement Learning for Recommender Systems</b>. ACM Transactions on Information Systems.
+
 <b>Xiaocong Chen</b>, Siyu Wang, Lina Yao, Lianyong Qi and Yong Li, <b>Intrinsically Motivated Reinforcement Learning based Recommendation with Counterfactual Data Augmentation</b>. World Wide Web.
 
-<b>Xiaocong Chen</b>, Lina Yao, Xianzhi Wang, Aixin Sun, Wenjie Zhang and Quan Z Sheng, <b>Generative Adversarial Reward Learning for Generalized Behavior Tendency Inference</b>. IEEE Transactions on Knowledge and Data Engineering
+<b>Xiaocong Chen</b>, Lina Yao, Xianzhi Wang, Aixin Sun, Wenjie Zhang and Quan Z Sheng, <b>Generative Adversarial Reward Learning for Generalized Behavior Tendency Inference</b>. IEEE Transactions on Knowledge and Data Engineering.
 
 <b>Xiaocong Chen</b>, Lina Yao, Tao Zhou, Jinming Dong and Yu Zhang, <b>Momentum Contrastive Learning for Few-Shot COVID-19 Diagnosis from Chest CT Images</b>. Pattern Recognition, 113, p.107826.
 
