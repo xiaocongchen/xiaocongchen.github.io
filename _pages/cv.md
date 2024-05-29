@@ -13,15 +13,18 @@ redirect_from:
 * Organisation Committees
   *   International Conference  Advanced Data Mining and Applications 2024 (ADMA 2024)
 * PC Member
+  * Conference on Neural Information Processing Systems 2024 (NeurIPS 2024)
+  * ACM SIGKDD Conference on Knowledge Discovery and Data Mining 2024 (KDD 2024)
+  * The Web Conference 2024 (WWW 2024)
   * International Conference  Advanced Data Mining and Applications 2023 (ADMA 2023) 
-  * ACM International Conference on Information and Knowledge Management (CIKM 2022-2023)
+  * ACM International Conference on Information and Knowledge Management (CIKM 2022-2024)
   * International Conference on Neural Information Processing (ICONIP 2019-2023)
 * Conference Reviewer
   * ACM International Conference on Multimedia in Asia 2019.
   * AAAI Conference on Artificial Intelligence (AAAI 2020-2023).
   * Advances in Knowledge Discovery and Data Mining - Pacific-Asia Conference (PAKDD 2020-2023).
   * International Joint Conference on Artificial Intelligence (IJCAI 2020-2023)
-  * The 26th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2020-2023).
+  * The ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2020-2023).
   * IEEE International Conference on Web Services (ICWS 2020)
   * The ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2020-2023).
   * 29th ACM International Conference on Information and Knowledge Management (CIKM 2020).
