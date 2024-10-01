@@ -13,9 +13,11 @@ redirect_from:
 * Organisation Committees
   *   International Conference  Advanced Data Mining and Applications 2024 (ADMA 2024)
 * PC Member
-  * Conference on Neural Information Processing Systems 2024 (NeurIPS 2024)
-  * ACM SIGKDD Conference on Knowledge Discovery and Data Mining 2024 (KDD 2024)
-  * The Web Conference 2024 (WWW 2024)
+  * The 28th International Conference on Artificial Intelligence and Statistics (AISTAT 2025) 
+  * International Conference on Learning Representation (ICLR 2025)
+  * Conference on Neural Information Processing Systems 2024 (NeurIPS 2024,2025)
+  * ACM SIGKDD Conference on Knowledge Discovery and Data Mining 2024 (KDD 2024,2025)
+  * The Web Conference 2024 (WWW 2024,2025)
   * International Conference  Advanced Data Mining and Applications 2023 (ADMA 2023) 
   * ACM International Conference on Information and Knowledge Management (CIKM 2022-2024)
   * International Conference on Neural Information Processing (ICONIP 2019-2023)
