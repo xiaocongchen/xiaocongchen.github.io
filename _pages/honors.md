@@ -1,7 +1,8 @@
 ---
-permalink: honors/
+layout: archive
 title: "Honors"
 author_profile: true
+permalink: honors/
 redirect_from: 
   - /honors
   - /honors/
