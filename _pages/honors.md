@@ -8,6 +8,8 @@ redirect_from:
   - /honors/
   - honors.html
 ---
+
+{% include base_path %}
 <h2>Honors</h2>
 Outstanding Reviewers, ACM SIGKDD 2025
 
