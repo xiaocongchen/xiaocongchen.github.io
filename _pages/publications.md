@@ -46,8 +46,6 @@ Xiang Zhang, <b>Xiaocong Chen</b>, Manqing Dong, Huan Liu, Chang Ge and Lina Yao
 
 Xiang Zhang, <b>Xiaocong Chen</b>, Lina Yao, Chang Ge and Manqing Dong, <b>Deep neural network hyperparameter optimization with orthogonal array tuning</b>. International Conference on Neural Information Processing (ICONIP 2019), Sydney, Australia, December 12-15, 2019
 
-<b>Xiaocong Chen</b>, Chaoran Huang, Xiang Zhang, Xianzhi Wang, Wei Liu and Lina Yao, <b>Expert2Vec: Distributed Expert Representation Learning in Question Answering Community</b>. International Conference on Advanced Data Mining and Applications (ADMA 2019), Dalian, China, November 21-23, 2019
-
 <h2>Journal Paper</h2>
 
 Siyu Wang, <b>Xiaocong Chen</b> and Lina Yao, <b>Retentive Decision Transformer with Adaptive Masking for Reinforcement Learning based Recommendation Systems </b>. ACM Transactions on Intelligent Systems and Technology, 2025
