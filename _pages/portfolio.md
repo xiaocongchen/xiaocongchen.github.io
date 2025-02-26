@@ -7,8 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-
-{% include base_path %}
 <h2>Honors</h2>
 Outstanding Reviewers, ACM SIGKDD 2025
 
