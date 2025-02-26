@@ -1,9 +1,10 @@
 ---
-permalink: /honors
+permalink: /honors/
 title: "Honors"
 author_profile: true
 redirect_from: 
   - /honors
+  - /honors/
   - honors.html
   
 
