@@ -1,13 +1,11 @@
 ---
-permalink: /honors/
+permalink: honors/
 title: "Honors"
 author_profile: true
 redirect_from: 
   - /honors
   - /honors/
   - honors.html
-  
-
 ---
 <h2>Honors</h2>
 Outstanding Reviewers, ACM SIGKDD 2025
