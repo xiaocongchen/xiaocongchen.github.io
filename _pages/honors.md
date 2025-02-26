@@ -4,9 +4,8 @@ title: "Honors"
 author_profile: true
 permalink: honors/
 redirect_from: 
-  - /honors
-  - /honors/
-  - honors.html
+  - "/honors"
+  - "/honors/"
 ---
 
 {% include base_path %}

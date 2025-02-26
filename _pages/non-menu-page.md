@@ -1,17 +1,19 @@
 ---
-permalink: /non-menu-page/
-title: "Page not in menu"
-excerpt: "This is a page not in th emain menu"
+permalink: /honors/
+title: "Honors"
 author_profile: true
 redirect_from: 
   - "/nmp/"
   - "/nmp.html"
 ---
 
-This is a page not in the menu. You can use markdown in this page.
+<h2>Honors</h2>
+Outstanding Reviewers, ACM SIGKDD 2025
 
-Heading 1
-======
 
-Heading 2
-======
+<h2>Awards</h2>
+SIGIR 2022 Student Travel Award
+
+UNSW Tuition-Fee Scholarship
+
+UNSW Top-Up Scholarship
