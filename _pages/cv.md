@@ -10,7 +10,6 @@ redirect_from:
 
 {% include base_path %}
 
-======
 * Organisation Committee
   *   International Conference  Advanced Data Mining and Applications 2024 (ADMA 2024)
 * Program Committee
