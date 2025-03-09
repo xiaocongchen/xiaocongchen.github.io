@@ -13,6 +13,7 @@ redirect_from:
 * Organisation Committee
   *   International Conference  Advanced Data Mining and Applications 2024 (ADMA 2024)
 * Program Committee
+  * ACM Conference on Recommender Systems (RecSys 2025)  
   * International Conference on Machine Learning (ICML 2025) 
   * The 28th International Conference on Artificial Intelligence and Statistics (AISTAT 2025) 
   * International Conference on Learning Representation (ICLR 2024,2025)
