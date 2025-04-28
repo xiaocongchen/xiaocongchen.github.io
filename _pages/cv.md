@@ -24,6 +24,7 @@ redirect_from:
   * ACM International Conference on Information and Knowledge Management (CIKM 2022-2024)
   * International Conference on Neural Information Processing (ICONIP 2019-2023)
   * IEEE International Conference on Robotics and Automation (ICRA 2024)
+  * IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025)
 * Journal Reviewer
   * ACM Computing Survey (CSUR).
   * Neurocomputing.
