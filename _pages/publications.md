@@ -12,7 +12,9 @@ author_profile: true
 {% endif %}
 
 <h2>Conference Paper</h2>
-Siyu Wang, <b>Xiaocong Chen</b> and Lina Yao, <b>Policy-Guided Causal State Representation for Offline Reinforcement Learning Recommendation</b>，ACM Web Conference (WebConf 2025), Sydney, Australia April 28 - May 2, 2025
+<b>Xiaocong Chen</b>, Siyu Wang, Tong Yu and Lina Yao, <b>Uncertainty-aware distributional offline reinforcement learning</b>. IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025), Hangzhou, China, October 19-25, 2025. 
+
+Siyu Wang, <b>Xiaocong Chen</b> and Lina Yao, <b>Policy-Guided Causal State Representation for Offline Reinforcement Learning Recommendation</b>，ACM Web Conference (WebConf 2025), Sydney, Australia, April 28 - May 2, 2025.
 
 <b>Xiaocong Chen</b>, Siyu Wang and Lina Yao, <b>Maximum-Entropy Regularized Decision Transformer with Reward Relabelling for Dynamic Recommendation</b>,2024 ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD 2024), Barcelona, Spain, August 25-29, 2024
 
