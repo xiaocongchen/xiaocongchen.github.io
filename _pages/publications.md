@@ -12,6 +12,10 @@ author_profile: true
 {% endif %}
 
 <h2>Conference Paper</h2>
+<b>Xiaocong Chen</b>, Siyu Wang and Lina Yao, Maximum In-Support Return Modeling for Dynamic Recommendation with Language Model Prior. The 34th ACM International Conference on Information and Knowledge Management (CIKM 2025), Coex, Seoul, Korea, November 10 - 14, 2025.
+
+<b>Xiaocong Chen</b>, Siyu Wang and Lina Yao, Energy-Guided Diffusion Sampling for Long-Term User Behavior Prediction in Reinforcement Learning-based Recommendation. The 34th ACM International Conference on Information and Knowledge Management (CIKM 2025), Coex, Seoul, Korea, November 10 - 14, 2025.
+
 <b>Xiaocong Chen</b>, Siyu Wang, Tong Yu and Lina Yao, <b>Uncertainty-aware distributional offline reinforcement learning</b>. IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025), Hangzhou, China, October 19-25, 2025. 
 
 Siyu Wang, <b>Xiaocong Chen</b> and Lina Yao, <b>Policy-Guided Causal State Representation for Offline Reinforcement Learning Recommendation</b>，ACM Web Conference (WebConf 2025), Sydney, Australia, April 28 - May 2, 2025.
