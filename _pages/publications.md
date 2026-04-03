@@ -12,6 +12,8 @@ author_profile: true
 {% endif %}
 
 <h2>Conference Paper</h2>
+
+<b>Xiaocong Chen</b>, Siyu Wang and Lina Yao, Advantage-Conditioned Flow Policy for Offline Reinforcement Learning in Recommendation. 49th International ACM Conference on Research and Development in Information Retrieval (ACM SIGIR 2026), Melbourne, Australia, 20-24 July 2026, 
 <b>Xiaocong Chen</b>, Siyu Wang and Lina Yao, Maximum In-Support Return Modeling for Dynamic Recommendation with Language Model Prior. The 34th ACM International Conference on Information and Knowledge Management (CIKM 2025), Coex, Seoul, Korea, November 10 - 14, 2025.
 
 <b>Xiaocong Chen</b>, Siyu Wang and Lina Yao, Energy-Guided Diffusion Sampling for Long-Term User Behavior Prediction in Reinforcement Learning-based Recommendation. The 34th ACM International Conference on Information and Knowledge Management (CIKM 2025), Coex, Seoul, Korea, November 10 - 14, 2025.
